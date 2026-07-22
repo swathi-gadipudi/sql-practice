@@ -1,25 +1,25 @@
 # SQL Practice
 
-This repository contains SQL queries and data analysis exercises using an airline database.
+This repository showcases my SQL learning journey and project work.
 
-## Skills Demonstrated
+## Contents
 
-- SQL SELECT Statements
-- Joins
-- Aggregate Functions
-- GROUP BY & HAVING
+### SQL_Practice.sql
+A collection of SQL exercises covering:
+- SELECT
+- JOINs
+- GROUP BY
+- HAVING
 - Subqueries
-- Common Table Expressions (CTEs)
+- CTEs
 - Window Functions
 - Stored Procedures
 - Triggers
 - Transactions
-- Indexes
 - Query Optimization
 
-## Database
-
-The exercises are based on an airline database and focus on solving real-world business problems.
+### Airline_SQL_Project.sql
+A project completed using an airline database where I solved business-related SQL problems involving customers, passengers, routes, tickets, and revenue analysis.
 
 ## Author
 
